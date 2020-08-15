@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on SomtochiAma</title>
+    <link>https://somtochiama.github.io/blog/</link>
+    <description>Recent content in Blogs on SomtochiAma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020</copyright>
+    <lastBuildDate>Sat, 15 Aug 2020 12:31:27 +0100</lastBuildDate>
+    
+	<atom:link href="https://somtochiama.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my blog!</title>
+      <link>https://somtochiama.github.io/blog/welcome-post/</link>
+      <pubDate>Sat, 15 Aug 2020 12:31:27 +0100</pubDate>
+      
+      <guid>https://somtochiama.github.io/blog/welcome-post/</guid>
+      <description>May Lord, If I may? Welcome, wanderers, to my corner of the internet. However you may have stumbled into this rough path, it matters not. This is my space and you are definitely welcome. This place houses my writings - technical or non-technical, rants, and what not.
+My name is Somto. You may have heard of me.</description>
+    </item>
+    
+  </channel>
+</rss>
